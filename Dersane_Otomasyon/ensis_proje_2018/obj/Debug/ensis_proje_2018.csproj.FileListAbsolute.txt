@@ -1,0 +1,30 @@
+c:\users\pc\documents\visual studio 2012\Projects\ensis_proje_2018\ensis_proje_2018\bin\Debug\ensis_proje_2018.exe.config
+C:\Users\PC\documents\visual studio 2012\Projects\ensis_proje_2018\ensis_proje_2018\bin\Debug\ensis_proje_2018.exe
+C:\Users\PC\documents\visual studio 2012\Projects\ensis_proje_2018\ensis_proje_2018\bin\Debug\ensis_proje_2018.pdb
+C:\Users\PC\documents\visual studio 2012\Projects\ensis_proje_2018\ensis_proje_2018\obj\Debug\ensis_proje_2018.Form1.resources
+C:\Users\PC\documents\visual studio 2012\Projects\ensis_proje_2018\ensis_proje_2018\obj\Debug\ensis_proje_2018.Properties.Resources.resources
+C:\Users\PC\documents\visual studio 2012\Projects\ensis_proje_2018\ensis_proje_2018\obj\Debug\ensis_proje_2018.csproj.GenerateResource.Cache
+C:\Users\PC\documents\visual studio 2012\Projects\ensis_proje_2018\ensis_proje_2018\obj\Debug\ensis_proje_2018.exe
+C:\Users\PC\documents\visual studio 2012\Projects\ensis_proje_2018\ensis_proje_2018\obj\Debug\ensis_proje_2018.pdb
+C:\Users\PC\documents\visual studio 2012\Projects\ensis_proje_2018\ensis_proje_2018\obj\Debug\ensis_proje_2018.ansayfa.resources
+C:\Users\PC\documents\visual studio 2012\Projects\ensis_proje_2018\ensis_proje_2018\obj\Debug\ensis_proje_2018.ogrenciler.resources
+C:\Users\PC\documents\visual studio 2012\Projects\ensis_proje_2018\ensis_proje_2018\obj\Debug\ensis_proje_2018.Form2.resources
+C:\Users\PC\Documents\Visual Studio 2012\Projects\ensis_proje_2018\ensis_proje_2018\obj\Debug\ensis_proje_2018.Form3.resources
+C:\Users\PC\Documents\Visual Studio 2012\Projects\ensis_proje_2018\ensis_proje_2018\obj\Debug\ensis_proje_2018.sinif_islemleri.resources
+C:\Users\PC\Documents\Visual Studio 2012\Projects\ensis_proje_2018\ensis_proje_2018\obj\Debug\ensis_proje_2018.Bolum.resources
+C:\Users\PC\Documents\Visual Studio 2012\Projects\ensis_proje_2018\ensis_proje_2018\obj\Debug\ensis_proje_2018.csprojResolveAssemblyReference.cache
+C:\Users\PC\Desktop\ensis_proje_2018\ensis_proje_2018\bin\Debug\ensis_proje_2018.exe.config
+C:\Users\PC\Desktop\ensis_proje_2018\ensis_proje_2018\obj\Debug\ensis_proje_2018.exe
+C:\Users\PC\Desktop\ensis_proje_2018\ensis_proje_2018\obj\Debug\ensis_proje_2018.pdb
+C:\Users\PC\Desktop\ensis_proje_2018\ensis_proje_2018\bin\Debug\ensis_proje_2018.exe
+C:\Users\PC\Desktop\ensis_proje_2018\ensis_proje_2018\bin\Debug\ensis_proje_2018.pdb
+C:\Users\PC\Desktop\ensis_proje_2018\ensis_proje_2018\obj\Debug\ensis_proje_2018.csprojResolveAssemblyReference.cache
+C:\Users\PC\Desktop\ensis_proje_2018\ensis_proje_2018\obj\Debug\ensis_proje_2018.ansayfa.resources
+C:\Users\PC\Desktop\ensis_proje_2018\ensis_proje_2018\obj\Debug\ensis_proje_2018.Bolum.resources
+C:\Users\PC\Desktop\ensis_proje_2018\ensis_proje_2018\obj\Debug\ensis_proje_2018.Form1.resources
+C:\Users\PC\Desktop\ensis_proje_2018\ensis_proje_2018\obj\Debug\ensis_proje_2018.Form2.resources
+C:\Users\PC\Desktop\ensis_proje_2018\ensis_proje_2018\obj\Debug\ensis_proje_2018.Form3.resources
+C:\Users\PC\Desktop\ensis_proje_2018\ensis_proje_2018\obj\Debug\ensis_proje_2018.ogrenciler.resources
+C:\Users\PC\Desktop\ensis_proje_2018\ensis_proje_2018\obj\Debug\ensis_proje_2018.Properties.Resources.resources
+C:\Users\PC\Desktop\ensis_proje_2018\ensis_proje_2018\obj\Debug\ensis_proje_2018.sinif_islemleri.resources
+C:\Users\PC\Desktop\ensis_proje_2018\ensis_proje_2018\obj\Debug\ensis_proje_2018.csproj.GenerateResource.Cache
